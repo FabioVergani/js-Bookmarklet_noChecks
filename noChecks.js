@@ -1,0 +1,1 @@
+javascript:void((function(x){for(var i=0,w=window,m=w.Array.prototype.slice.call(w.document.querySelectorAll(x)),l=m.length;i<l;i++){m[i].checked=false;};})('input[type="checkbox"],input[type="radio"]'));
